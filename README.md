@@ -1,2 +1,3 @@
 # Brahma-Machine-Learning
-This is a repository for Dr. Brakk\ma's weekt#3 homework.
+This is a repository for Dr. Brahma's weekt#3 homework.
+Due to time limitation, I only finished certain parts. I will upload an updated version later.
