@@ -1,5 +1,5 @@
 # Brahma-Machine-Learning
-In this notebook, I completed simple data cleaning and exploration on data related to India Air Quality.
+For "India Air Quality", I completed simple data cleaning and exploration on data related to India Air Quality.
 Packages I used include: pandas, numpy, SimmpleImputer (from sklearn.impute), and matplotlib.
 In order to get more information from the data set, I:
 First, get a general idea of the data set by reading into description, shape, count, null values, range, column, 
